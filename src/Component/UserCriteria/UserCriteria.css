@@ -1,0 +1,19 @@
+
+.userCriteria{
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+    justify-content: center;
+    align-items: center;
+    padding: 5vh 10vw 5vh 10vw;
+}
+.userCriteria > h2{
+    font-size: 3em;
+    width: 55%;
+    text-align: center;
+}
+.userCriterioCard{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 10px 10px;
+}

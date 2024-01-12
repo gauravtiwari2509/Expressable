@@ -27,6 +27,7 @@ font-size: 1.1em;
 border-radius: 30px;
 padding: 20px 30px;
 background-color: rgb(190, 120, 233);
+width: 180px;
 }
 .getstarted:hover{
 background-color: rgb(197, 148, 227);

@@ -1,6 +1,6 @@
 .banner{
     display: flex;
-    height: 80vh;
+    /* height: 80vh; */
     background: url(../../../public/photoGallery/bannerPc.jpg);
     height: 100vh;
     position: relative;

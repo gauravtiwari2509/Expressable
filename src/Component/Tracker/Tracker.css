@@ -1,0 +1,23 @@
+.tracker{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    padding: 5vh 10vw 5vh 10vw;
+    gap: 90px;
+}
+.trackDatatxt{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-start;
+}
+.trackDatatxt > h2{
+font-size: 2em;
+}
+.trackDatatxt >span{
+    font-size: 1.3em;
+    color: rgb(103, 103, 103);
+}
+.tracker >img{
+    width: 450px;
+}

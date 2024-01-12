@@ -5,6 +5,9 @@ import './App.css'
 import { Navbar } from './Component/Navbar/Navbar'
 import { Banner } from './Component/Banner/Banner'
 import { Research } from './Component/ResearchSection/Research'
+import { UserCriteria } from './Component/UserCriteria/UserCriteria'
+import { Tracker } from './Component/Tracker/Tracker'
+import LoveExpressable from './Component/LoveExpressable/LoveExpressable'
 
 function App() {
 
@@ -13,6 +16,9 @@ function App() {
         <Navbar/>
         <Banner/>
         <Research/>
+        <UserCriteria/>
+        <Tracker/>
+        <LoveExpressable/>
     </>
   )
 }
